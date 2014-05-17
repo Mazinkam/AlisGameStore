@@ -1,0 +1,37 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height:1.5em;
+}
+body {
+	background-color: #FFF;
+}
+a {
+	font-size: 14px;
+	color: #000;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+.extra_witdh{
+width:100px;
+}
+
+.framed_picture{
+
+width:200px;
+height:200px;
+}
+a:active {
+	text-decoration: none;
+	color: #000;
+}
